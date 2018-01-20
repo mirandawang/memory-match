@@ -1,5 +1,5 @@
 # memory-match
-A card matching memory game, Miranda's Memory Match!
+A card matching memory game, Miranda's Memory Match! Play up to 3 levels and try to match the cards as fast as you can!
 
 You can run this game through XAMPP with a MySQL database and Apache Web Server. 
 
